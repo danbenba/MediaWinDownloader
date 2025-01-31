@@ -95,7 +95,9 @@
       {
         "Name": "Windows 8 (x86)",
         "Url": "https://dl.malwarewatch.org/windows/Windows-8.iso"
-      },
+      }
+    ],
+    "Windows 8.1": [
       {
         "Name": "Windows 8.1 (x64)",
         "Url": "https://dl.malwarewatch.org/windows/Windows-8.1-x64.iso"
