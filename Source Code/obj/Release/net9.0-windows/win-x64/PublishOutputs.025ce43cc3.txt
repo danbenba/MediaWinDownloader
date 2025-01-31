@@ -1,0 +1,7 @@
+D:\Software\Development\C#\MediaWinDownloader\publish\MediaWinDownloader.pdb
+D:\Software\Development\C#\MediaWinDownloader\publish\D3DCompiler_47_cor3.dll
+D:\Software\Development\C#\MediaWinDownloader\publish\PenImc_cor3.dll
+D:\Software\Development\C#\MediaWinDownloader\publish\PresentationNative_cor3.dll
+D:\Software\Development\C#\MediaWinDownloader\publish\vcruntime140_cor3.dll
+D:\Software\Development\C#\MediaWinDownloader\publish\wpfgfx_cor3.dll
+D:\Software\Development\C#\MediaWinDownloader\publish\MediaWinDownloader.exe

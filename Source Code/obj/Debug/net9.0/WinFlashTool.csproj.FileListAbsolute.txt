@@ -1,0 +1,4 @@
+C:\Users\Dany\Desktop\WinFlashTool\obj\Debug\net9.0\WinFlashTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Desktop\WinFlashTool\obj\Debug\net9.0\WinFlashTool.AssemblyInfoInputs.cache
+C:\Users\Dany\Desktop\WinFlashTool\obj\Debug\net9.0\WinFlashTool.AssemblyInfo.cs
+C:\Users\Dany\Desktop\WinFlashTool\obj\Debug\net9.0\WinFlashTool.csproj.CoreCompileInputs.cache

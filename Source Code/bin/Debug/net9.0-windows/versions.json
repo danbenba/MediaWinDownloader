@@ -1,0 +1,175 @@
+{
+  "Windows 1.01 to 4.0": [
+      {
+        "Name": "Windows 1.01 (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-1.01.zip"
+      },
+      {
+        "Name": "Windows 2.03 (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-2.03.zip"
+      },
+      {
+        "Name": "Windows NT 3.1 (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-NT-3.1.zip"
+      },
+      {
+        "Name": "Windows NT 4.0 (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-NT-4.0.iso"
+      }
+    ],
+    "Windows 95": [
+      {
+        "Name": "Windows 95 (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-95.iso"
+      },
+      {
+        "Name": "Windows 95 Image (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-95-Image.iso"
+      },
+      {
+        "Name": "Windows 95 Boot (Img File)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-95-Boot.img"
+      }
+    ],
+    "Windows 98": [
+      {
+        "Name": "Windows 98 FE (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-98-FE.iso"
+      },
+      {
+        "Name": "Windows 98 SE (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-98-SE.iso"
+      },
+      {
+        "Name": "Windows 98 Boot (Img File)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-98-Boot.img"
+      }
+    ],
+  "Windows ME": [
+      {
+        "Name": "Windows ME (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-ME.iso"
+      }
+    ],
+  "Windows 2000": [
+      {
+        "Name": "Windows 2000 (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-2000.iso"
+      }
+    ],
+  "Windows XP": [
+      {
+        "Name": "Windows XP Professionnal (x64)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-XP-x64.iso"
+      },
+      {
+        "Name": "Windows XP Professionnal (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-XP.iso"
+      }
+    ],
+    "Windows Vista": [
+      {
+        "Name": "Windows Vista Professionnal (x64)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-Vista-x64.iso"
+      },
+      {
+        "Name": "Windows Vista Professionnal (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-Vista.iso"
+      }
+    ],
+    "Windows 7": [
+      {
+        "Name": "Windows 7 Professionnal (x64)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-7-x64.iso"
+      },
+      {
+        "Name": "Windows 7 Professionnal (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-7.iso"
+      }
+    ],
+    "Windows 8": [
+      {
+        "Name": "Windows 8 (x64)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-8-x64.iso"
+      },
+      {
+        "Name": "Windows 8 (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-8.iso"
+      },
+      {
+        "Name": "Windows 8.1 (x64)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-8.1-x64.iso"
+      },
+      {
+        "Name": "Windows 8.1 (x86)",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-8.1.iso"
+      }
+    ],
+    "Windows 10": [
+      {
+        "Name": "Windows 10 1507",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-10-1507.iso"
+      },
+      {
+        "Name": "Windows 10 1607",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-10-1607.iso"
+      },
+      {
+        "Name": "Windows 10 1809",
+        "Url": "https://archive.org/download/windows-1809/Windows%201809.iso"
+      },
+      {
+        "Name": "Windows 10 1909",
+        "Url": " https://archive.org/download/windows-1909/Windows%201909.iso"
+      },
+      {
+        "Name": "Windows 10 2004",
+        "Url": "https://archive.org/download/windows-2004_202011/Windows%202004.iso"
+      },
+      {
+        "Name": "Windows 10 21H1",
+        "Url": "https://archive.org/download/win-10-21-h-1-english-x-64-iso/Win10_21H1_English_x64.iso"
+      },
+      {
+        "Name": "Windows 10 22h2",
+        "Url": "https://archive.org/download/windows10_202408/Windows.iso"
+      }
+    ],
+    "Windows 11": [
+      {
+        "Name": "Windows 11 Insider Preview 25290",
+        "Url": "https://archive.org/download/25290.1000.230128-1120.-rs-prerelease-clientmulti-x-64-fre-en-us/25290.1000.230128-1120.RS_PRERELEASE_CLIENTMULTI_X64FRE_EN-US.ISO"
+      },
+      {
+        "Name": "Windows 11 21H1 (RTM)",
+        "Url": "https://archive.org/download/WIndows-11-English-21H1/Win11_English_x64v1.iso"
+      },
+      {
+        "Name": "Windows 11 22H2",
+        "Url": "https://archive.org/download/windows-11-version-22h2/Win11_22H2_English_x64.iso"
+      },
+      {
+        "Name": "Windows 11 23H2",
+        "Url": "https://archive.org/download/win-11-23h2/Win11_23H2_English_x64.iso"
+      },
+      {
+        "Name": "Windows 11 24H2",
+        "Url": "https://archive.org/download/Win11_24H2_English_x64/Win11_24H2_English_x64.iso"
+      }
+    ],
+    "Windows PEs": [
+      {
+        "Name": "Windows 10 PE Bobomb",
+        "Url": "https://dl.malwarewatch.org/windows/Windows-10-PE-Bobomb.iso"
+      },
+      {
+        "Name": "Hiren's BootCD PE",
+        "Url": "https://www.hirensbootcd.org/files/HBCD_PE_x64.iso"
+      },
+      {
+        "Name": "Gandalf's Win 10 PE (Redstone 7°",
+        "Url": "https://archive.org/download/gandalfs-win-10-pe-x64-redstone-7-20h1/Gandalf%27sWin10PEx64RS7-20H1%20%5BFileCR%5D.ISO"
+      }
+    ]
+  }
+  

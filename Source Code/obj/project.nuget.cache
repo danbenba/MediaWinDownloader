@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+RpFjdcdS0=",
+  "success": true,
+  "projectFilePath": "D:\\Software\\Development\\C#\\MediaWinDownloader\\MediaWinDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dany\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\Dany\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512",
+    "C:\\Users\\Dany\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.1\\microsoft.net.illink.tasks.9.0.1.nupkg.sha512",
+    "C:\\Users\\Dany\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.1\\microsoft.netcore.app.runtime.win-x64.9.0.1.nupkg.sha512",
+    "C:\\Users\\Dany\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.1.nupkg.sha512",
+    "C:\\Users\\Dany\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.1\\microsoft.aspnetcore.app.runtime.win-x64.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
