@@ -109,6 +109,10 @@
     ],
     "Windows 10": [
       {
+        "Name": "Windows 10.0 (RTM)",
+        "Url": "https://archive.org/download/Win10EnterpriseRTMEnglish/en_windows_10_enterprise_x64_dvd_6851151.iso"
+      },
+      {
         "Name": "Windows 10 1507",
         "Url": "https://dl.malwarewatch.org/windows/Windows-10-1507.iso"
       },
